@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Enter the number of uuids you want: "
 read count
 
